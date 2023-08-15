@@ -1,0 +1,11 @@
+[package]
+name = "macro_py"
+version = "0.2.0"
+authors = ["Azalea Colburn <elocolburn@comcast.net>"]
+repository = ""
+keywords = ["macro", "python"]
+license-file = "LICENSE"
+readme = "README.md"
+description = "Python with Rust macros"
+
+[dependencies]
