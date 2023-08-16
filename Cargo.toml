@@ -8,4 +8,7 @@ license-file = "LICENSE"
 readme = "README.md"
 description = "Python with Rust macros"
 
+[lib]
+proc-macro = true
+
 [dependencies]
